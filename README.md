@@ -1,12 +1,18 @@
 
 # Setup Docker Para Projetos Laravel 9 com PHP 8
+<<<<<<< HEAD
+=======
 
+>>>>>>> bc764518c797508df14b1ff7906fec38b72bdfa5
 
 ### Passo a passo
 Clone Repositório
 ```sh
 git clone https://github.com/JosianoAraujo/inovation_construct.git
+<<<<<<< HEAD
+=======
 ```
+>>>>>>> bc764518c797508df14b1ff7906fec38b72bdfa5
 
 ```sh
 cd laravel9/
@@ -34,7 +40,11 @@ cp .env.example .env
 
 Atualize as variáveis de ambiente do arquivo .env
 ```dosini
+<<<<<<< HEAD
+APP_NAME=Inovation
+=======
 APP_NAME=invovation
+>>>>>>> bc764518c797508df14b1ff7906fec38b72bdfa5
 APP_URL=http://localhost:8180
 
 DB_CONNECTION=mysql
